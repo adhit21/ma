@@ -1,5 +1,5 @@
 #define VERSION "1.2"
-#define REPOSITORY "https://github.com/offici5l/MiAssistantTool"
+#define REPOSITORY "https://github.com/adhit21/ma"
 
 #ifdef _WIN32
 #include <libusb.h>
